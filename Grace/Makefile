@@ -1,4 +1,4 @@
-NAME := grace
+NAME := Grace
 
 CC = gcc 
 CFLAGS = -Wall -Wextra -Werror

@@ -1,4 +1,4 @@
-NAME := colleen
+NAME := Colleen
 
 CC = gcc 
 CFLAGS = -Wall -Wextra -Werror

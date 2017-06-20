@@ -1,4 +1,4 @@
-NAME := sully
+NAME := Sully
 
 CC = gcc 
 CFLAGS = -Wall -Wextra -Werror
